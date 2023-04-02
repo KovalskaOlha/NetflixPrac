@@ -5,5 +5,10 @@ public class Main {
         f.genre="comedy";
         f.name="Handover";
         f.year="2010";
+
+        Series s=new Series();
+        s.genre="horror";
+        s.name="Black mirror";
+        s.year="2016";
     }
 }
